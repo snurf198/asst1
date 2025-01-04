@@ -1,0 +1,10 @@
+# ignore files without extension
+*
+!*.*
+!*/
+
+# ignore specific files or extensions
+.DS_Store
+*.ppm
+*.o
+
